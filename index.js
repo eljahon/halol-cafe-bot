@@ -17,7 +17,7 @@ const bootstrap = async () => {
                         {
                             text: 'Open Website',
                             web_app: {
-                                url: 'https://hahol-cafe.vercel.app/'
+                                url: 'https://halol-cafe-git-main-eljahons-projects.vercel.app/'
                             }
                            }
                        ]
