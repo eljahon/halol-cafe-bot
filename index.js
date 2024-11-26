@@ -12,7 +12,7 @@ const bootstrap = async () => {
         if (message === '/start') {
             bot.sendMessage(chatId, 'Hello, welcome to the Halol Cafe Bot!', {
                 reply_markup: {
-                    keyboard: [
+                    inline_keyboard: [
                        [
                         {
                             text: 'Open Website',
